@@ -18,7 +18,7 @@ body {
 
 .header {
     height: 795px;
-    background-image: url('/img/header_bg.png');
+    background-image: url('img/header_bg.png');
     padding-top: 46px;
 
     &__navigation {
@@ -35,6 +35,7 @@ body {
 
             &.burger-menu {
                 color: #63562f;
+                font-size: 28px;
 
             }
         }
@@ -125,7 +126,7 @@ body {
 
     .header {
         height: 695px;
-        background-image: url('/img/header_bg_mobile.png');
+        background-image: url('img/header_bg_mobile.png');
         padding-top: 35px;
 
         &__navigation {
@@ -223,7 +224,7 @@ body {
 
     &.active {
         // 
-        margin: 60px;
+
     }
 
 }
