@@ -10,13 +10,9 @@ body {
   margin: 0 auto;
 }
 
-body {
-  background-color: #9678e7;
-}
-
 .header {
   height: 795px;
-  background-image: url("img/header_bg.png");
+  background-image: url("/img/header_bg.png");
   padding-top: 46px;
 }
 
@@ -115,12 +111,9 @@ body {
     margin: 0 auto;
     width: 100%;
   }
-  body {
-    background-color: #462953;
-  }
   .header {
     height: 695px;
-    background-image: url("img/header_bg_mobile.png");
+    background-image: url("/img/header_bg_mobile.png");
     padding-top: 35px;
   }
   .header__navigation__logo-img {
