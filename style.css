@@ -11,12 +11,12 @@ body {
 }
 
 body {
-  background-color: #792929;
+  background-color: white;
 }
 
 .header {
   height: 795px;
-  background-image: url("img/headerbg.png");
+  background-image: url(img/headerbg.png);
   padding-top: 46px;
 }
 
@@ -117,7 +117,7 @@ body {
   }
   .header {
     height: 695px;
-    background-image: url("img/headerbgmobile.png");
+    background-image: url(img/headerbgmobile.png);
     padding-top: 35px;
   }
   .header__navigation__logo-img {
