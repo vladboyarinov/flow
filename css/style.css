@@ -3,6 +3,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   color: #756943;
+  background-color: #aaffde;
 }
 
 .wrapper {
@@ -162,7 +163,7 @@ body {
   }
   .header {
     height: 695px;
-    background-image: url(../img/headerbg.png);
+    background-image: url(../img/headerbgmob.png);
     padding-top: 35px;
     width: 100%;
   }
