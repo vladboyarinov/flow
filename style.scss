@@ -13,12 +13,12 @@ body {
 }
 
 body {
-    background-color: rgb(235, 124, 124);
+    background-color: rgb(231, 81, 81);
 }
 
 .header {
     height: 795px;
-    background-image: url('../img/headerbg.png');
+    background-image: url('img/headerbg.png');
     padding-top: 46px;
 
     &__navigation {
@@ -124,7 +124,7 @@ body {
 
     .header {
         height: 695px;
-        background-image: url('../img/headerbgmobile.png');
+        background-image: url('img/headerbgmobile.png');
         padding-top: 35px;
 
         &__navigation {
